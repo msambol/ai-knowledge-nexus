@@ -1,0 +1,12 @@
+{
+  "secrets": {
+    "openaiApiKey": "REDACTED",
+    "slackBotToken": "REDACTED",
+    "slackSigningSecret": "REDACTED"
+  },
+  "openaiSettings": {
+    "embeddingModel": "text-embedding-3-small",
+    "embeddingVectorLength": "1536",
+    "chatModel": "gpt-4o"
+  }
+}

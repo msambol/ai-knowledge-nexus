@@ -1,0 +1,4 @@
+opensearch-py
+requests-aws4auth
+PyPDF2
+openai
